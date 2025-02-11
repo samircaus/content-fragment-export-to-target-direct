@@ -23,12 +23,12 @@ It allows the user to select a content fragment and export it to Adobe Target. I
 4. App will run on `localhost:9080` by default
 
 Some other usefule commands:
-`aio rt:action:list`
-`aio rt:action:get aem-cf-console-admin-1/export --url`
-`aio rt:action:invoke aem-cf-console-admin-1/export --param tenant "tepshared" --result`
-`aio app logs -w`
-`aio app deploy --no-actions`
-`aio rt:action:invoke aem-cf-console-admin-1/export --param-file default-params.json`
+* `aio rt:action:list`
+* `aio rt:action:get aem-cf-console-admin-1/export --url`
+* `aio rt:action:invoke aem-cf-console-admin-1/export --param tenant "tepshared" --result`
+* `aio app logs -w`
+* `aio app deploy --no-actions`
+* `aio rt:action:invoke aem-cf-console-admin-1/export --param-file default-params.json`
 
 See [packages](https://developer.adobe.com/runtime/docs/guides/using/creating_actions/)
 
