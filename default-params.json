@@ -1,0 +1,4 @@
+{
+    "tenant": "tepshared",
+    "workspaces": [{"id":"12345", "name":"My Workspace"}, {"id":"1234567", "name":"Restricted Workspace"}]
+}
